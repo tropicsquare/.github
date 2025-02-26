@@ -1,9 +1,12 @@
 # Welcome to Tropic Square github
+[Tropic Square](https://tropicsquare.com) develops open-architecture secure elements on the foundation of Security through Transparency. We invite testing and evaluation to verify the reliability of our products. 
+
+[TROPIC01](https://github.com/tropicsquare/tropic01)  is the first product in its lineup, serving as a cryptographic coprocessor that establishes a hardware root of trust, ensuring the protection of the system’s most sensitive assets while offloading cryptographic functions from the host MCU.
 
 ---
-# [TROPIC01](https://github.com/tropicsquare/tropic01) secure chip 
-## Product information resources and staring point
-Repo [TROPIC01](https://github.com/tropicsquare/TROPIC01) documentation, applications suppert, dev kits ...
+# [TROPIC01](https://github.com/tropicsquare/tropic01) secure chip repo
+## Product information resources and starting point
+Repository [TROPIC01](https://github.com/tropicsquare/TROPIC01) serves are starting point to access documentation, applications support, dev kits, product infromation etc.
 
 ## Application development and SDK 
 Application C SDK repo [libtropic](https://github.com/tropicsquare/libtropic)
