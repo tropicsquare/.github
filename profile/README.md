@@ -1,22 +1,23 @@
-# Welcome to Tropic Square github
+# Welcome to Tropic Square GitHub
 [Tropic Square](https://tropicsquare.com) develops open-architecture secure elements on the foundation of Security through Transparency. We invite testing and evaluation to verify the reliability of our products. 
 
 [TROPIC01](https://github.com/tropicsquare/tropic01)  is the first product in its lineup, serving as a cryptographic coprocessor that establishes a hardware root of trust, ensuring the protection of the system’s most sensitive assets while offloading cryptographic functions from the host MCU.
 
 ---
 # [TROPIC01](https://github.com/tropicsquare/tropic01) secure chip repo
-## Product information resources and starting point
+## Product Information Resources and Starting Point
 Repository [TROPIC01](https://github.com/tropicsquare/TROPIC01) serves are starting point to access documentation, applications support, dev kits, product infromation etc.
 
-## Application development and SDK 
+## Application Development and SDK 
 Application C SDK repo [libtropic](https://github.com/tropicsquare/libtropic)
 
 STM32 example repo [libtropic-stm32](https://github.com/tropicsquare/libtropic-stm32)
 
-
+## Development Kits
+[TS1302 USB dev kit](https://github.com/tropicsquare/ts-dev-kits/blob/main/ts1302-usb-dev-kit.md)
 
 ---
-# Tropic Square IP cores
+# Tropic Square IP Cores
 ## SPECT - Elliptic Curve HW accelerator IP
 
 SPECT FW repo [ts-spect-fw](https://github.com/tropicsquare/ts-spect-fw) 
@@ -25,7 +26,7 @@ SPECT compiler repo [ts-spect-compiler](https://github.com/tropicsquare/ts-spect
   
 
 ---
-# Chip design resources
+# Chip Design Resources
 
 Register map PeakRDL* repositories - evaluation of PeakRDL for future products. PeakRDL was not used on **TROPIC01** design. 
 
