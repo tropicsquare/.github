@@ -14,7 +14,9 @@ Application C SDK repo [libtropic](https://github.com/tropicsquare/libtropic)
 STM32 example repo [libtropic-stm32](https://github.com/tropicsquare/libtropic-stm32)
 
 ## Development Kits
-[TS1302 USB dev kit](https://github.com/tropicsquare/ts-dev-kits/blob/main/ts1302-usb-dev-kit.md)
+* [TS1302 USB dev kit](https://github.com/tropicsquare/ts-dev-kits/blob/main/ts1302-usb-dev-kit.md)
+* [TS1401 Arduino Shield dev kit](https://github.com/tropicsquare/ts-dev-kits/blob/main/ts1401-arduino-shield.md)
+* [TS1501 RPi Shield dev kit](https://github.com/tropicsquare/ts-dev-kits/blob/main/ts1501-rpi-shield.md)
 
 ---
 # Tropic Square IP Cores
