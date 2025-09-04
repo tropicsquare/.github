@@ -14,7 +14,7 @@ See [TROPIC01](https://github.com/tropicsquare/tropic01) repository for technica
 
 ## Support
 
-For Technical Support and Errata visit our [Support Portal](https://support.desk.tropicsquare.com/) 
+For Technical Support and Errata visit our [Support Portal](https://support.desk.tropicsquare.com/) .
 
 ## Disclaimer
 
