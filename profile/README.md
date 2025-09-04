@@ -33,9 +33,9 @@ To the maximum extent permitted by applicable law, we disclaim any liability for
 
 [Dev kit - RPi Shield - TS1501](http://github.com/tropicsquare/tropic01-raspberypi-shield-hw)
 
-[Dev kit - USB stick HW - TS1302) ](http://github.com/tropicsquare/tropic01-stm32u5-usb-devkit-hw)
+[Dev kit - USB stick - TS1302 (HW) ](http://github.com/tropicsquare/tropic01-stm32u5-usb-devkit-hw)
 
-[Dev kit - USB stick FW) ](https://github.com/tropicsquare/tropic01-stm32u5-usb-devkit-fw)
+[Dev kit - USB stick - TS1302 (FW) ](https://github.com/tropicsquare/tropic01-stm32u5-usb-devkit-fw)
 
 [Latex Library](https://github.com/tropicsquare/ts-latex-lib)
 
