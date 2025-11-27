@@ -6,7 +6,7 @@ We invite testing and evaluation to verify the security of our products.
 
 ## [TROPIC01](https://github.com/tropicsquare/tropic01)
 
-TROPIC01 is the first product in its lineup. TROPIC01:
+TROPIC01 is the first product in its lineup that:
 - is a cryptographic coprocessor suitable as hardware Root-of-Trust (RoT).
 - ensures protection of the system’s most sensitive assets
 - offloads cryptographic computations from a MCU or CPU.
