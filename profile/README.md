@@ -4,17 +4,16 @@ We are [Tropic Square](https://tropicsquare.com).
 We develop, manufacture, sell, maintain and support auditable secure integrated circuits on the foundation of Security through Transparency.
 We invite testing and evaluation to verify the security of our products. 
 
-## TROPIC01
+## [TROPIC01](https://github.com/tropicsquare/tropic01)
 
-TROPIC01 is the first product in its lineup, serving as a cryptographic coprocessor that 
-establishes a hardware root of trust, ensuring the protection of the system’s most sensitive assets while offloading cryptographic 
-functions from an Microcontroller.
+TROPIC01 is the first product in its lineup. 
+TROPIC01 is a cryptographic coprocessor sutiable as hardware Root-of-Trust (RoT).
+TROPIC01 Ensures protection of the system’s most sensitive assets while offloading
+cryptographic functions from a CPU.
 
-See [TROPIC01](https://github.com/tropicsquare/tropic01) repository for technical documentation.
+## [Support Portal](https://support.tropicsquare.com/)
 
-## Support
-
-For Technical Support and Errata visit our [Support Portal](https://support.tropicsquare.com/).
+Support Portal provides Technical Support and Errata.
 
 ## Disclaimer
 
